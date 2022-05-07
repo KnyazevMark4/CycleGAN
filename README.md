@@ -16,6 +16,6 @@ Deep Learning School по Computer Vision.
 ![](images/Apple2Orange.png "")  
 ![](images/Orange2Apple.png "San Juan Mountains")
 
-### Apple2Orange
+### Autumn2Summer
 ![](images/Autumn2Summer.png "San Juan Mountains")  
 ![](images/Summer2Autumn.png "San Juan Mountains")
