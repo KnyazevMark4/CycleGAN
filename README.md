@@ -8,7 +8,7 @@ Deep Learning School по Computer Vision.
 ## Данные
 Модель обучена под два датасета:
 - [Apple2Orange](https://www.kaggle.com/datasets/balraj98/apple2orange-dataset) : данный датасет взят с Kaggle
-- [Autumn2Summer](https://drive.google.com/file/d/10nu9JK_ZPoFffBs02wXFzTrZmDZ0NKuL/view?usp=sharing): данный датасет составлен самостоятельно с помощью Яндекс Картинок по запросам "Осенний Лес" и "Летний лес"
+- [Autumn2Summer](https://drive.google.com/file/d/10nu9JK_ZPoFffBs02wXFzTrZmDZ0NKuL/view?usp=sharing): данный датасет составлен самостоятельно с помощью Яндекс Картинок по запросам "Осенний лес" и "Летний лес"
 
 ## Результаты
 
